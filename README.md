@@ -1,5 +1,12 @@
 <h1>Hi 👋, I'm Sharvan</h1>
-<p> A passionate MERN stack developer and data analyst from [Hyderabad,India] - 🔭 I’m working as a frontend developer and data analyst.  -📚 I'm currently learning advanced data analysis and full-stack development with MERN.  -⚡ In my free time, I explore new tech, solve DSA problems, and build projects.  -🌱 I’m currently learning ML, DL  -😄 Pronouns: He/him</p>
+<strong>A passionate MERN stack developer and data analyst from Hyderabad, India.</strong><br>
+<ul>
+  <li>🔭 Currently working as a <strong>frontend developer</strong> and <strong>data analyst</strong>.</li>
+  <li>📚 Learning <strong>advanced data analysis</strong> and <strong>full-stack development with MERN</strong>.</li>
+  <li>⚡ In my free time, I <strong>explore new tech, solve DSA problems, and build projects</strong>.</li>
+  <li>🌱 Currently learning <strong>Machine Learning (ML) and Deep Learning (DL)</strong>.</li>
+  <li>😄 <strong>Pronouns:</strong> He/Him.</li>
+</ul>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>

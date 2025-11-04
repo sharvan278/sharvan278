@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=36BCF7&width=700&lines=AI+Engineer+|+GenAI+Pipeline+Developer;LangGraph+%2B+Bedrock+%7C+FastAPI+Orchestration;LLM+Agents+%7C+NL%E2%86%92SQL+Systems;Healthcare+%26+Medicaid+Data+Automation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=36BCF7&width=700&lines=GENAI+Engineer+|+ML+DL+Developer;LangGraph+%2B+Bedrock+%7C+FastAPI+Orchestration;LLM+Agents+%7C+NL%E2%86%92SQL+Systems;Healthcare+%26+Medicaid+Data+Automation" />
 </p>
 <h1>Hi 👋, I'm Sharvan</h1>
 <strong>AI Engineer | GenAI Systems | LangGraph + AWS Bedrock | Data & ML Engineering</strong><br><br>

@@ -1,18 +1,20 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=36BCF7&width=700&lines=AI+Engineer+|+GenAI+Pipeline+Developer;LangGraph+%2B+Bedrock+%7C+FastAPI+Orchestration;LLM+Agents+%7C+NL%E2%86%92SQL+Systems;Healthcare+%26+Medicaid+Data+Automation" />
+</p>
 <h1>Hi 👋, I'm Sharvan</h1>
-<strong>AI Engineer | GenAI Systems | Data Analysis | ML & DL</strong><br><br>
+<strong>AI Engineer | GenAI Systems | LangGraph + AWS Bedrock | Data & ML Engineering</strong><br><br>
 
-🚀 I build enterprise-grade AI systems with LangGraph, LLMs, FastAPI, and AWS — focused on<br>
-Medicaid analytics, scalable microservices, automated pipelines, and intelligent data workflows.
+🚀 I build **enterprise-grade GenAI systems** that convert natural-language queries into trusted, auditable data workflows — specializing in LLM agents, Medicaid analytics, and cloud-scale microservices.
 
 <ul>
-  <li>🤖 Built a production GenAI Medicaid intelligence platform using <strong>LangGraph + AWS Bedrock</strong>
-      achieving <strong>95% SQL accuracy, +68% reliability, 43.5% complexity reduction</strong>.</li>
-  <li>🧠 Experienced in <strong>LLM orchestration, entity resolution, NLP pipelines, and HITL governance</strong>.</li>
-  <li>☁️ Hands-on with <strong>AWS, FastAPI microservices, async systems, S3 data pipelines</strong>.</li>
-  <li>📊 Strong background in <strong>ML, forecasting, data engineering & analytics</strong>.</li>
-  <li>💻 Previously: Full-stack MERN engineer (secure auth, scalable APIs, performance tuning)</li>
+  <li>🤖 Engineered a production <strong>multi-agent Medicaid GenAI platform</strong> using LangGraph + AWS Bedrock with a 4-layer reasoning pipeline (intent → entity → strategy → SQL).</li>
+  <li>📊 Achieved <strong>95% SQL accuracy, +68% system reliability, 43.5% workflow simplification</strong> across 50+ Oracle tables & 200+ drug entities.</li>
+  <li>⚙️ Built <strong>FastAPI microservices</strong> with async execution, caching, pooling, observability & audit lineage powering multi-million-dollar Medicaid workflows.</li>
+  <li>🧠 Expertise in <strong>entity resolution, hallucination mitigation, schema-aware grounding, and HITL governance</strong> for safe AI in regulated domains.</li>
+  <li>💻 Previously: Full-stack <strong>MERN engineer</strong> — secure auth, scalable APIs, performance optimization.</li>
   <li>🎓 B.Tech in Data Science | <strong>8.91 CGPA</strong> | Hyderabad, India</li>
 </ul>
+
 
 <h2>🔧 Tech Stack & Tools</h2>
 <p>
